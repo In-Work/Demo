@@ -6,7 +6,9 @@ namespace DemoConsole
    {
       static void Main(string[] args)
       {
-         Math math = new Math(5, 3);
+         int z = 3;
+
+         Math math = new Math(z, 3);
          Console.WriteLine(math.Add(math.x, math.y));
       }
    }
