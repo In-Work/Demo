@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DemoConsole
 {
@@ -10,10 +6,8 @@ namespace DemoConsole
    {
       static void Main(string[] args)
       {
-         int x = 3;
-         int y = 3;
-
-         Console.WriteLine(y + x);
+         Math math = new Math(5, 3);
+         Console.WriteLine(math.Add(math.x, math.y));
       }
    }
 }
