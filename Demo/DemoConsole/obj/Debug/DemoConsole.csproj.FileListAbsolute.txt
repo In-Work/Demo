@@ -1,0 +1,7 @@
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\bin\Debug\DemoConsole.exe.config
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\bin\Debug\DemoConsole.exe
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\bin\Debug\DemoConsole.pdb
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\obj\Debug\DemoConsole.csprojAssemblyReference.cache
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\obj\Debug\DemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\obj\Debug\DemoConsole.exe
+C:\Users\Mrbli\Desktop\Demo\Demo\DemoConsole\obj\Debug\DemoConsole.pdb
